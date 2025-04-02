@@ -1,5 +1,6 @@
 # Analyzing-House-Data-for-price-Estimation
 This was a project created during my university's course "PATTERN RECOGNITION". <br>
+Language: Python<br>
 <br>
 
 In this project, house data from the state of california were analyzed.<br><br>
